@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import mainVideo from '../assets/mainVideo.mp4'; 
+import mainVideo from '../assets/hero.mp4'; 
 import { gsap } from 'gsap';
 import { useGSAP } from '@gsap/react';
 import logo from '../assets/logo.png'
